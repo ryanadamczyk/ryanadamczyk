@@ -1,4 +1,4 @@
-[Hero image](https://raw.githubusercontent.com/ryanadamczyk/ryanadamczyk.github.io/main/assets/img/headers/cli-header.webp)
+![Hero image](https://raw.githubusercontent.com/ryanadamczyk/ryanadamczyk.github.io/main/assets/img/headers/cli-header.webp)
 
 #  👋  Greetings!
 
