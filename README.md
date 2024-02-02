@@ -20,11 +20,11 @@ Welcome to my learning playground
 
 ### ✨&nbsp; About Me
 
-My name is Ryan Adamczyk, and I’m presently pursuing my Masters's while working as an Junion Systems Administration Intern at Florida Atlantic University.
+My name is Ryan Adamczyk, and i'm currently a Business Analyst at FIS working on the Global Real Estate tema. I previously recieved my Masters's in IT and Management while working as a Junior Systems Administration Intern at Florida Atlantic University.
 
 I am a HomeLab enthusiast who is constantly tinkering to learn more about my areas of interest.
 
-At 22 years old, I am an aspiring technology professional eager to make a significant entrance into the IT field, with a keen interest in roles such as Systems Administrator or equivalent.
+At 22 years old, I am an aspiring technology professional eager to make a significant impact in the teams and businesses I service.
 
 I am a hobby runner and biker, I love the beach and have always been obsessed with video games. **Add me on discord: .zex0**
   
