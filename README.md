@@ -11,6 +11,7 @@ Welcome to my learning playground
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Installing Request Tracker 5 on a Linux machine](https://www.radamczyk.com/posts/request-tracker-5-install-part-1/)
+- [Ubuntu 20.04 LTS NIST 800-171 Configuration](https://www.radamczyk.com/posts/Ubuntu-20-04-LTS-NIST-800-171-Configuration/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
@@ -20,11 +21,13 @@ Welcome to my learning playground
 
 ### ✨&nbsp; About Me
 
-My name is Ryan Adamczyk, and i'm currently a Business Analyst at FIS working on the Global Real Estate tema. I previously recieved my Masters's in IT and Management while working as a Junior Systems Administration Intern at Florida Atlantic University.
+My name is Ryan Adamczyk, and i'm currently a Business Analyst at FIS working on the Global Real Estate team. 
+
+I previously recieved my Masters's in IT and Management while working as a Junior Systems Administration Intern at Florida Atlantic University.
 
 I am a HomeLab enthusiast who is constantly tinkering to learn more about my areas of interest.
 
-At 22 years old, I am an aspiring technology professional eager to make a significant impact in the teams and businesses I service.
+At 22 years old, I am an aspiring technology professional eager to make a significant impact on the teams and businesses I service.
 
 I am a hobby runner and biker, I love the beach and have always been obsessed with video games. **Add me on discord: .zex0**
   
