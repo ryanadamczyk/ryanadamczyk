@@ -10,6 +10,8 @@ Welcome to my learning playground
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How to use Microsoft Power Automate to create conditional Microsoft Forms](https://www.radamczyk.com/posts/powerautomate-microsoft-form/)
+- [A Glance into my HomeLab](https://www.radamczyk.com/posts/homelab-setup/)
 - [Installing Request Tracker 5 on a Linux machine](https://www.radamczyk.com/posts/request-tracker-5-install-part-1/)
 - [Ubuntu 20.04 LTS NIST 800-171 Configuration](https://www.radamczyk.com/posts/Ubuntu-20-04-LTS-NIST-800-171-Configuration/)
 <!-- BLOG-POST-LIST:END -->
@@ -27,7 +29,7 @@ I previously recieved my Masters's in IT and Management while working as a Junio
 
 I am a HomeLab enthusiast who is constantly tinkering to learn more about my areas of interest.
 
-At 22 years old, I am an aspiring technology professional eager to make a significant impact on the teams and businesses I service.
+At 23 years old, I am an aspiring technology professional eager to make a significant impact on the teams and businesses I service.
 
 I am a hobby runner and biker, I love the beach and have always been obsessed with video games. **Add me on discord: .zex0**
   
